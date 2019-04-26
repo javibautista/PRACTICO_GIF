@@ -1,4 +1,5 @@
 *.pyc
 __pycache__
-#catBoomerang.gif
+*.mp4
+*.gif
 .DS_Store
